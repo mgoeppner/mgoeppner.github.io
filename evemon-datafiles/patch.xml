@@ -30,7 +30,7 @@
     <datafile>
       <name>eve-blueprints-en-US.xml.gzip</name>
       <date>07 January 2026</date>
-      <md5>e66448258915e56c8eaa92874099a7bc</md5>
+      <md5>ab930cebc39165cb912048af78be226b</md5>
       <url>https://mgoeppner.github.io/evemon-datafiles/Catalyst/2026-01-06</url>
       <message><![CDATA[Catalyst 23.02 (2026-01-06) blueprints data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
@@ -46,7 +46,7 @@ NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     <datafile>
       <name>eve-geography-en-US.xml.gzip</name>
       <date>07 January 2026</date>
-      <md5>993c6447ba0b4c4d8a65432f450b27fc</md5>
+      <md5>f09d6117639c98502959f647487e620d</md5>
       <url>https://mgoeppner.github.io/evemon-datafiles/Catalyst/2026-01-06</url>
       <message><![CDATA[Catalyst 23.02 (2026-01-06) geography data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
@@ -54,7 +54,7 @@ NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     <datafile>
       <name>eve-items-en-US.xml.gzip</name>
       <date>07 January 2026</date>
-      <md5>1eed38652d3236ea13200e68e1b1d637</md5>
+      <md5>026fc7b751f03a4f39a2e971dabf84d3</md5>
       <url>https://mgoeppner.github.io/evemon-datafiles/Catalyst/2026-01-06</url>
       <message><![CDATA[Catalyst 23.02 (2026-01-06) items data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
@@ -70,7 +70,7 @@ NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     <datafile>
       <name>eve-properties-en-US.xml.gzip</name>
       <date>07 January 2026</date>
-      <md5>b3981d1cd9ba0f722509078d7afa72c4</md5>
+      <md5>3aa36650e51a96f9c01c83e0dd43710a</md5>
       <url>https://mgoeppner.github.io/evemon-datafiles/Catalyst/2026-01-06</url>
       <message><![CDATA[Catalyst 23.02 (2026-01-06) properties data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
